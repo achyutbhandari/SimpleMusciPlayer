@@ -1,1 +1,1 @@
-# SimpleMusciPlayer
+# SimpleMusic Player
